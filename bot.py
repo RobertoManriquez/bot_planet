@@ -14,4 +14,4 @@ async def clasificar(ctx, residuo: str):
     result = reciclar(residuo)
     await ctx.send(result)
 
-bot.run("MTMyNjMzMjgyNjk5NTY1ODc3Mg.GmURYp.xqwUL2kPfgzQbnseAVAudk8rUWRHXIMjOecdk0")
+bot.run(token)
